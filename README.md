@@ -11,7 +11,7 @@ pip install cairoo
 ### Usage
 Even easier.
 
-```
+```python
 #import
 from cairoo import Cairoo
 

@@ -2,8 +2,8 @@ from setuptools import setup
 
 setup(
     name='cairoo',
-    version='v0.0.1',
-    packages=['draw'],
+    version='v0.0.4',
+    packages=['cairoo'],
     url='',
     license='MIT',
     author='Lewis Morris',

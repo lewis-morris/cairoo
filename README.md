@@ -64,7 +64,11 @@ lewis.morris@gmail.com
 
 ### See it in the wild.
 
+Custom Pattern Generation
 [thecomputermade.me](https://www.thecomputermade.me) 
+
+Pattern Animation
+[Youtube channel](https://www.youtube.com/channel/UC2OXh0WPp1vrZUJ47cPizGg?view_as=subscriber) 
 
 ### Thanks
 

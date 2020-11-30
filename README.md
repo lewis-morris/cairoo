@@ -75,3 +75,4 @@ and contributors to these products. Also not to mention numpy, pil/ pillow.
 
 - [ ] Add support for curved lines  
 - [ ] Output other formats.
+- [ ] Add background images

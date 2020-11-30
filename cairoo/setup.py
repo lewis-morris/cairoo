@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='pythonProject',
-    version='v0.0.1',
+    version='v0.0.3',
     packages=['draw'],
     url='',
     license='MIT',

@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='cairoo',
-    version='v0.0.4',
+    version='v0.0.5',
     packages=['cairoo'],
     url='',
     license='MIT',

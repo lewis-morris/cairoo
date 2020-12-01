@@ -1,6 +1,6 @@
 # Cairoo
 
-#### Cairoo is an basic and easy to use wrapper for cairocffi. 
+#### Cairoo is a basic and easy to use wrapper for cairocffi. 
 
 > Making drawing coloured shapes, with opacity and stokes to png a breeze. 
 > 
@@ -73,9 +73,9 @@ Pattern Animation
 ### Thanks
 
 This couldn't be made without the original C Cairo library or the cairocffi python bindings. So thanks to the creators
-and contributors to these products. Also not to mention numpy, pil/ pillow.
+and contributors to these. Also not to mention numpy, pil/ pillow.
 
-##TO DO 
+## TO DO 
 
 - [ ] Add support for curved lines  
 - [ ] Output other formats.
